@@ -11,7 +11,7 @@ const Main = () => {
       question:
         "What is used to pass data to a component from outside in React?",
       options: ["props", "render with arguments", "setState", "PropTypes"],
-      answer: "Free and open-source JavaScript front-end library",
+      answer: "props",
     },
     {
       sno: 2,
